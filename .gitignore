@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 ./src/models/
-./src/data/
+./src/data/*
 ./src/output/
